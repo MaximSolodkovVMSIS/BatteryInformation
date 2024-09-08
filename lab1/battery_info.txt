@@ -1,0 +1,6 @@
+Power supply: battery
+Saving mode: off
+Percentage: 92%
+Battery Chemistry: LION
+Charge Time: 0s
+Battery Life Time: N/A
